@@ -1,0 +1,10 @@
+.button {
+    height: 36px;
+    background-color: white;
+    margin: 0 8px;
+    cursor: pointer;
+}
+
+.active {
+    background-color: green;
+}
